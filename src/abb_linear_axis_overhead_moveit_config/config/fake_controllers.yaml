@@ -33,3 +33,19 @@ controller_list:
       - robotB_joint_4
       - robotB_joint_5
       - robotB_joint_6
+  - name: fake_manipulatorA_cart_controller
+    joints:
+      - robotA_joint_1
+      - robotA_joint_2
+      - robotA_joint_3
+      - robotA_joint_4
+      - robotA_joint_5
+      - robotA_joint_6
+  - name: fake_manipulatorB_cart_controller
+    joints:
+      - robotB_joint_1
+      - robotB_joint_2
+      - robotB_joint_3
+      - robotB_joint_4
+      - robotB_joint_5
+      - robotB_joint_6
