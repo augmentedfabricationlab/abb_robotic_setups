@@ -2,12 +2,12 @@
 <package format="2">
   <name>abb_linear_axis_overhead</name>
   <version>0.0.0</version>
-  <description>The abb_linear_axis package</description>
+  <description>The abb_linear_axis_overhead package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="doerfler.kathrin@todo.todo">kathrind</maintainer>
+  <maintainer email="kathrind@todo.todo">ar_backpack</maintainer>
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
@@ -19,7 +19,7 @@
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <!-- <url type="website">http://wiki.ros.org/abb_linear_axis</url> -->
+  <!-- <url type="website">http://wiki.ros.org/abb_linear_axis_overhead</url> -->
 
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->
@@ -49,6 +49,7 @@
   <!-- Use doc_depend for packages you need only for building documentation: -->
   <!--   <doc_depend>doxygen</doc_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
+  
   <test_depend>roslaunch</test_depend>
   <build_export_depend>joint_state_publisher</build_export_depend>
   <build_export_depend>robot_state_publisher</build_export_depend>
