@@ -67,6 +67,7 @@
     <disable_collisions link1="robotA_link_3" link2="robotA_link_5" reason="Never" />
     <disable_collisions link1="robotA_link_3" link2="robotA_link_6" reason="Never" />
     <disable_collisions link1="robotA_link_4" link2="robotA_link_5" reason="Adjacent" />
+    <disable_collisions link1="robotA_link_4" link2="robotA_link_6" reason="User" />
     <disable_collisions link1="robotA_link_5" link2="robotA_link_6" reason="Adjacent" />
     <disable_collisions link1="robotB_base_link" link2="robotB_link_1" reason="Adjacent" />
     <disable_collisions link1="robotB_base_link" link2="robotB_link_3" reason="Never" />
@@ -80,5 +81,6 @@
     <disable_collisions link1="robotB_link_3" link2="robotB_link_5" reason="Never" />
     <disable_collisions link1="robotB_link_3" link2="robotB_link_6" reason="Never" />
     <disable_collisions link1="robotB_link_4" link2="robotB_link_5" reason="Adjacent" />
+    <disable_collisions link1="robotB_link_4" link2="robotB_link_6" reason="User" />
     <disable_collisions link1="robotB_link_5" link2="robotB_link_6" reason="Adjacent" />
 </robot>
