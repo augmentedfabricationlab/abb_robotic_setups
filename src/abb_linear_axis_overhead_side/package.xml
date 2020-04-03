@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>abb_linear_axis_overhead</name>
+  <name>abb_linear_axis_overhead_side</name>
   <version>0.0.0</version>
   <description>The abb_linear_axis_overhead package_side</description>
 
