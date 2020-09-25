@@ -329,11 +329,4 @@
     <child link="tool0"/>
   </joint>
   <!-- end of joint list -->
-  <!-- ROS base_link to ABB World Coordinates transform -->
-  <link name="base"/>
-  <joint name="base_link-base" type="fixed">
-    <origin rpy="0 0 0" xyz="0 0 0"/>
-    <parent link="base_link"/>
-    <child link="base"/>
-  </joint>
 </robot>
